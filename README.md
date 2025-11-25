@@ -1,14 +1,14 @@
-# Create a Dockerfile that will have basic Linux command operations inside shown. 
+Create a Dockerfile that will have basic Linux command operations inside shown. 
 
-# Build that Dockerfile, push it to Github. Create a Readme.md with
+Build that Dockerfile, push it to Github. Create a Readme.md with
 
-# Any 5 DevOps concepts of your choice.
+Any 5 DevOps concepts of your choice.
 
-# Explain in words how you would complete this assignment. All Docker commands and Git commands were used to complete it. Copy-paste of the commands used from the terminal is OK.
+Explain in words how you would complete this assignment. All Docker commands and Git commands were used to complete it. Copy-paste of the commands used from the terminal is OK.
 
-# How does it help you learn DevOps, Linux, Git, and Docker?
+How does it help you learn DevOps, Linux, Git, and Docker?
 
-# Basic Linux Commands in Docker
+Basic Linux Commands in Docker
 
 This project contains a simple Dockerfile built using ubuntu:latest.  
 When the container runs, it automatically executes several basic Linux commands such as ls, pwd, whoami, uname, and date.  
